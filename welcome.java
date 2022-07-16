@@ -6,3 +6,4 @@ public class Welcome{
 public interface runable{
 	run();
 }
+devlopwer two commet nedd to add lambda:
