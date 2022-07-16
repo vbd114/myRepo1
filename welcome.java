@@ -1,2 +1,5 @@
-welcome to java vaibhav
-
+public class Welcome{
+	public static void main(String args []){
+		
+	}
+}
