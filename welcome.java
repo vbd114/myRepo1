@@ -3,3 +3,6 @@ public class Welcome{
 		
 	}
 }
+public interface runable{
+	run();
+}
