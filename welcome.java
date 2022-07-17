@@ -4,6 +4,7 @@ public class Welcome{
 	}
 }
 public interface runable{
-	run();
+	run()
 }
 devlopwer two commet nedd to add lambda:
+ruable r ()->{}
