@@ -6,3 +6,5 @@ public class Welcome{
 public interface runable{
 	run();
 }
+functional interface- the interface which have only one undefine method
+abstract method also have a constructor
